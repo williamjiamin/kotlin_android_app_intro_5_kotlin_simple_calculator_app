@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_sixteen">16dp</dimen>
+    <dimen name="margin_eight">8dp</dimen>
+    <dimen name="padding_eight">8dp</dimen>
+    <dimen name="button_text_size">56sp</dimen>
+    <dimen name="ad_text_size">25sp</dimen>
+
+
+</resources>
